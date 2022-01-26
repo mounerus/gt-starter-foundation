@@ -7,7 +7,8 @@ const Footer = () => (
   <footer
     className="site-footer"
     sx={{
-      bg: "siteColor",
+      // bg: "siteColor",
+      bg: "black",
     }}
   >
     <div className="container">

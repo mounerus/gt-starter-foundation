@@ -5,7 +5,7 @@ title: QA & Automatisation des tests avec Cypress
 tagline: Gotestr
 featuredImage: /assets/toa-heftiba-0rlfirsdvzu-unsplash.jpg
 cta:
-  ctaText: Know more
+  ctaText: En savoir +
   ctaLink: /about
 ---
 Une formation accélérée pour apprendre à tester vos projets Web.

@@ -3,7 +3,7 @@ template: index-page
 slug: /
 title: QA & Automatisation des tests avec Cypress
 tagline: Gotestr
-featuredImage: /assets/qa-tester.png
+featuredImage: /assets/types-of-software-testing.jpg
 cta:
   ctaText: En savoir plus
   ctaLink: /bootcamp

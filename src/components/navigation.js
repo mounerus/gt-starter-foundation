@@ -12,6 +12,10 @@ const MenuItems = [
   },
   {
     path: "/about",
+    title: "about",
+  },
+  {
+    path: "/bootcamp",
     title: "Bootcamp",
   },
   {

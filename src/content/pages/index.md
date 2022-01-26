@@ -6,8 +6,9 @@ tagline: Gotestr
 featuredImage: /assets/toa-heftiba-0rlfirsdvzu-unsplash.jpg
 cta:
   ctaText: En savoir +
-  ctaLink: /about
+  ctaLink: /bootcamp
 ---
+
 Une formation accélérée pour apprendre à tester vos projets Web.
 
 Maîtrisez les langages les plus demandés sur le marché du travail

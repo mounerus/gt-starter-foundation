@@ -1,12 +1,13 @@
 ---
 template: index-page
 slug: /
-title: Wyatt Morriss
-tagline: Graphic Designer
+title: QA & Automatisation des tests avec Cypress
+tagline: Gotestr
 featuredImage: /assets/toa-heftiba-0rlfirsdvzu-unsplash.jpg
 cta:
   ctaText: Know more
   ctaLink: /about
 ---
+Une formation accélérée pour apprendre à tester vos projets Web.
 
-He is a award winning gaming graphic designer, based in sunny side of California. Working as Principal designer at Bethesda
+Maîtrisez les langages les plus demandés sur le marché du travail

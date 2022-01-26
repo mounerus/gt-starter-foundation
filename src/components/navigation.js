@@ -12,7 +12,7 @@ const MenuItems = [
   },
   {
     path: "/about",
-    title: "about",
+    title: "À propos",
   },
   {
     path: "/bootcamp",
@@ -24,7 +24,7 @@ const MenuItems = [
   },
   {
     path: "/contact",
-    title: "Contact",
+    title: "Nous Contacter",
   },
 ]
 

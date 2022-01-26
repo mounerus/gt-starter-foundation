@@ -5,7 +5,7 @@ title: QA & Automatisation des tests avec Cypress
 tagline: Gotestr
 featuredImage: /assets/toa-heftiba-0rlfirsdvzu-unsplash.jpg
 cta:
-  ctaText: En savoir +
+  ctaText: En savoir plus
   ctaLink: /bootcamp
 ---
 

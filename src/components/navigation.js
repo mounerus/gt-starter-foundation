@@ -24,7 +24,7 @@ const MenuItems = [
   },
   {
     path: "/contact",
-    title: "Nous Contacter",
+    title: "Contact",
   },
 ]
 

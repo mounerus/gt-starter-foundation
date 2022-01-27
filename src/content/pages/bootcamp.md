@@ -19,8 +19,6 @@ Le programme nécessite un engagement car il faut environ  deux mois pour le ter
 
 Si vous lisez déjà des livres et des articles de blog sur le testing & le codage, c'est un bon signe. 
 
-
-
 ## Ce dont vous *n'avez pas* besoin :
 
  **Une formation en codage ou en technologie**
@@ -35,17 +33,13 @@ Vous pouvez étudier à temps partiel à 15-20 heures par semaine pour terminer 
 
 Vous pouvez profiter de la flexibilité de l'apprentissage en ligne avec la responsabilité et l'attention individuelle traditionnellement associées aux institutions physiques. Tout comme un professeur d'université peut vous inspirer à poursuivre une carrière dans un certain domaine, votre mentor, tuteur, spécialiste de carrière et conseiller étudiant vous gardera motivé et sur la bonne voie.
 
-
-
 ## Le programme est il 100% en ligne?
 
 Oui, le programme est entièrement asynchrone et en ligne, vous pouvez donc étudier quand et où vous le souhaitez tant que vous pouvez vous connecter et rester sur la bonne voie pour apprendre.\
 Mais cela ne signifie pas que l'expérience d'apprentissage est isolée ou solitaire ! Vous aurez des contacts réguliers avec votre mentor,ainsi qu'un accès complet à nos ressources en lignes.
 
-
-
 ## Que se passe-t-il si j'ai une question à laquelle je ne trouve pas de réponse ici ?
 
-Si vous avez des questions supplémentaires, nous sommes heureux de vous aider ! Envoyez-nous simplement un **[e-mail](elmceed@gmail.com)** ou à **contact@gotestr.com** et nous vous fournirons les réponses dont vous avez besoin.
+Si vous avez des questions supplémentaires, nous sommes heureux de vous aider ! Envoyez-nous simplement un **[](elmceed@gmail.com)elmceed@gmail.com** ou à **contact@gotestr.com** et nous vous fournirons les réponses dont vous avez besoin.
 
 [](https://careerfoundry.com/en/connect/web-development-contact-advisor/)

@@ -1,7 +1,7 @@
 ---
 template: index-page
 slug: /
-title: " Formation  Automatisation des Tests en Javacript"
+title: " Formation  Automatisation des Tests en Javascript"
 tagline: Gotestr
 featuredImage: /assets/qa-test.jpeg
 cta:

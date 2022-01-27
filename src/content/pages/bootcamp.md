@@ -1,51 +1,51 @@
 ---
 template: about-page
 slug: /bootcamp
-title: Postulez au Bootcamp QA
+title: Postulez au Bootcamp d' Automatisation des Tests en Javacript
 ---
+![bootcamp qa javascript](/assets/qa-tester.png "bootcamp qa javascript")
 
-Thank you! Now say "nuclear wessels"! No! Don't jump! A sexy mistake. Anyone who laughs is a communist!
+Apprenez en ligne de manière flexible sans avoir à quitter votre emploi et travaillez avec des mentors experts.
 
-A true inspiration for the children. And when we woke up, we had these bodies. Moving along… Do a flip! Michelle, I don't regret this, but I bth rue and lament it.
+## De quoi as-tu besoin:
 
-![Toys](/assets/vanessa-bucceri-gdirwiyama8-unsplash.jpg "Toys")
+**La motivation pour transformer votre carrière**
 
-Nay, I respect and admire Harold Zoid too much to beat him to death with his own Oscar. Well, then good news! It's a suppository. Then we'll go with that data file! **I've been there.** _My folks were always on me to groom myself and wear underpants._ What am I, the pope?
+Le programme nécessite un engagement car il faut environ  deux mois pour le terminer. Vous devez être prêt à réserver au moins 15 à 20 heures par semaine pour étudier. 
 
-Daddy Bender, we're hungry. We can't compete with Mom! Her company is big and evil! Ours is small and neutral! We're rescuing ya. We'll go deliver this crate like professionals, and then we'll go home.
+**Un ordinateur (Mac ou PC) et une connexion internet.** 
 
-I didn't ask for a completely reasonable excuse! I asked you to get busy! I never loved you. OK, this has gotta stop. I'm going to remind Fry of his humanity the way only a woman can. With a warning label this big, you know they gotta be fun!
+**Un intérêt pour les les tests et le code**
 
-1. And from now on you're all named Bender Jr.
-2. Ah, computer dating. It's like pimping, but you rarely have to use the phrase "upside your head."
-3. You wouldn't. Ask anyway!
+Si vous lisez déjà des livres et des articles de blog sur le testing & le codage, c'est un bon signe. 
 
-Bender, quit destroying the universe! No! The cat shelter's on to me. Enough about your promiscuous mother, Hermes! We have bigger problems. Fatal. I guess if you want children beaten, you have to do it yourself.
 
-I decline the title of Iron Cook and accept the lesser title of Zinc Saucier, which I just made up. Uhh… also, comes with double prize money. You mean while I'm sleeping in it? I don't want to be rescued.
 
-- You know the worst thing about being a slave? They make you work, but they don't pay you or let you go.
-- And when we woke up, we had these bodies.
-- Spare me your space age technobabble, Attila the Hun!
+## Ce dont vous *n'avez pas* besoin :
 
-Hi, I'm a naughty nurse, and I really need someone to talk to. \$9.95 a minute. But, like most politicians, he promised more than he could deliver. I don't know what you did, Fry, but once again, you screwed up! Now all the planets are gonna start cracking wise about our mamas.
+ **Une formation en codage ou en technologie**
 
-You mean while I'm sleeping in it? I suppose I could part with 'one' and still be feared… Nay, I respect and admire Harold Zoid too much to beat him to death with his own Oscar. Negative, bossy meat creature!
+Ce programme est conçu pour vous faire passer de débutant à prêt à l'emploi, quel que soit votre parcours. Et maintenant plus que jamais, les employeurs voient les diplômés du bootcamp comme d'excellents candidats. 
 
-Oh God, what have I done? I don't 'need' to drink. I can quit anytime I want! Bender! Ship! Stop bickering or I'm going to come back there and change your opinions manually! Wow! A superpowers drug you can just rub onto your skin? You'd think it would be something you'd have to freebase.
+**Temps libre illimité**
 
-Ask her how her day was. In our darkest hour, we can stand erect, with proud upthrust bosoms. Why did you bring us here? I don't know what you did, Fry, but once again, you screwed up! Now all the planets are gonna start cracking wise about our mamas.
+Vous pouvez étudier à temps partiel à 15-20 heures par semaine pour terminer le programme en deux mois.
 
-Good news, everyone! I've taught the toaster to feel love! This opera's as lousy as it is brilliant! Your lyrics lack subtlety. You can't just have your characters announce how they feel. That makes me feel angry!
+**Pour apprendre tout seul**
 
-Hello Morbo, how's the family? You won't have time for sleeping, soldier, not with all the bed making you'll be doing. Oh Leela! You're the only person I could turn to; you're the only person who ever loved me.
+Vous pouvez profiter de la flexibilité de l'apprentissage en ligne avec la responsabilité et l'attention individuelle traditionnellement associées aux institutions physiques. Tout comme un professeur d'université peut vous inspirer à poursuivre une carrière dans un certain domaine, votre mentor, tuteur, spécialiste de carrière et conseiller étudiant vous gardera motivé et sur la bonne voie.
 
-My fellow Earthicans, as I have explained in my book 'Earth in the Balance'', and the much more popular ''Harry Potter and the Balance of Earth', we need to defend our planet against pollution. Also dark wizards. Incidentally, you have a dime up your nose.
 
-You are the last hope of the universe. You know the worst thing about being a slave? They make you work, but they don't pay you or let you go. I meant 'physically'. Look, perhaps you could let me work for a little food? I could clean the floors or paint a fence, or service you sexually?
 
-Hey, guess what you're accessories to. I feel like I was mauled by Jesus. Why would a robot need to drink? What are their names? Fry! Quit doing the right thing, you jerk! Doomsday device? Ah, now the ball's in Farnsworth's court!
+## Le programme est il 100% en ligne?
 
-I saw you with those two "ladies of the evening" at Elzars. Explain that. Shinier than yours, meatbag. That's the ONLY thing about being a slave. Um, is this the boring, peaceful kind of taking to the streets?
+Oui, le programme est entièrement asynchrone et en ligne, vous pouvez donc étudier quand et où vous le souhaitez tant que vous pouvez vous connecter et rester sur la bonne voie pour apprendre.\
+Mais cela ne signifie pas que l'expérience d'apprentissage est isolée ou solitaire ! Vous aurez des contacts réguliers avec votre mentor,ainsi qu'un accès complet à nos ressources en lignes.
 
-Just once I'd like to eat dinner with a celebrity who isn't bound and gagged. Daddy Bender, we're hungry. Kids don't turn rotten just from watching TV. I just want to talk. It has nothing to do with mating. Fry, that doesn't make sense.
+
+
+## Que se passe-t-il si j'ai une question à laquelle je ne trouve pas de réponse ici ?
+
+Si vous avez des questions supplémentaires, nous sommes heureux de vous aider ! Envoyez-nous simplement un **[e-mail](elmceed@gmail.com)** ou à **contact@gotestr.com** et nous vous fournirons les réponses dont vous avez besoin.
+
+[](https://careerfoundry.com/en/connect/web-development-contact-advisor/)

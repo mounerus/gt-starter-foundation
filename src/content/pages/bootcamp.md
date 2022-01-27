@@ -1,7 +1,7 @@
 ---
 template: about-page
 slug: /bootcamp
-title: Postulez au Bootcamp d' Automatisation des Tests en Javacript
+title: Postulez au Bootcamp d' Automatisation des Tests en Javascript
 ---
 ![bootcamp qa javascript](/assets/qa-tester.png "bootcamp qa javascript")
 

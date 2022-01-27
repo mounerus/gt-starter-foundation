@@ -1,8 +1,8 @@
 ---
 template: blog-post
-title: Frameworks d'automatisation des tests Javascript
-slug: /framework-test-javascript
-date: 2020-10-13 12:47
+title: Les principaux Frameworks d'automatisation des tests  qui utilisent Javascript
+slug: /framework-automatisation-test-javascript
+date: 2021-10-12 12:47
 description: QA & Frameworks d'automatisation des tests Javascript
 featuredImage: /assets/js-test.jpeg
 ---
@@ -12,7 +12,7 @@ Dans cet article, Gotestr vous guidera à travers les principaux frameworks cour
 
 Vous devriez apprendre autant de frameworks que possible mentionnés dans l'article.
 
-### Cadres d'automatisation de l'interface utilisateur :
+### Framework d'automatisation de l'interface utilisateur :
 
 * *[WebdriverJS](https://github.com/SeleniumHQ/selenium/wiki/WebDriverJs)* - est un webdriver Nodejs  implémenté par les auteurs de Selenium, inclut uniquement les fonctionnalités et commandes de base. Utilise le flux de contrôle pour synchroniser les actions asynchrones.
 * *[WebdriverIO](http://webdriver.io/)* - Nodejs webdriver. Possède sa propre gestion des actions asynchrones à l'aide d'un riche ensemble de fonctionnalités.
@@ -33,28 +33,28 @@ Vous devriez apprendre autant de frameworks que possible mentionnés dans l'arti
 * *[Taiko](https://github.com/getgauge/Taiko)* - Une bibliothèque Node.js pour tester et automatiser les navigateurs chromium.
 * *[QA Wolf](https://github.com/qawolf/qawolf)* - Une bibliothèque Node.js pour créer des tests de navigateur 10 fois plus rapidement avec Puppeteer et Jest.
 
-### Cadres d'automatisation fictifs :
+### framework d'automatisation fictifs :
 
 * *[Sinon.JS](http://sinonjs.org/)* - Espions de test autonomes, stubs et mocks pour JavaScript. Aucune dépendance, fonctionne avec n'importe quel framework de test unitaire.
 
-### Cadres d'automatisation d'API :
+### Framework d'automatisation d'API :
 
 * *[SuperTest](https://github.com/visionmedia/supertest)* - Bibliothèque pilotée par super-agent pour tester les serveurs HTTP node.js à l'aide d'une API fluide.
 * *[Frisby](https://github.com/vlucas/frisby)* - Frisby est un framework de test d'API REST construit sur Jest qui rend le test des points de terminaison d'API facile, rapide et amusant.
 * *[PactumJS](https://pactumjs.github.io/)* - Outil de test API REST pour tous les niveaux d'une pyramide de test.
 
-### Cadres d'automatisation mobile :
+### framework d'automatisation mobile :
 
 * *[Implémentation Appium de WebdriverIO](https://github.com/webdriverio/appium-boilerplate/)* - liaisons nodejs implémentant les commandes Appium.
-* *[Detox](https://github.com/wix/Detox)* - Cadre de test et d'automatisation de bout en bout de Grey Box pour les applications mobiles
+* *[Detox](https://github.com/wix/Detox)* - framework de test et d'automatisation de bout en bout de Grey Box pour les applications mobiles
 
-### Cadres d'analyse de code :
+### Frameworks d'analyse de code :
 
 * *[ESLint](http://eslint.org/)* - Outil de linting JavaScript enfichable. Des règles personnalisées peuvent être ajoutées pour étendre les fonctionnalités existantes.
 * *[JSHint](https://github.com/jshint/jshint)* - Outil d'analyse de code js de conduite communautaire pris en charge par twitter, facebook, wiki, jquery, mozilla, yahoo et autres.
 * *[JsLint](https://www.jslint.com/)* - Vérificateur et validateur de syntaxe JavaScript.
 
-### Cadres BDD :
+### Framework BDD :
 
 * *[CucumberJS](https://github.com/cucumber/cucumber-js)* - Cucumber est un outil permettant d'exécuter des tests automatisés écrits en langage clair. Cucumber.js est l'implémentation JavaScript de Cucumber et s'exécute à la fois sur Node.js et sur les navigateurs Web modernes.
 * *[MochaJS](https://mochajs.org/)* - Framework de test JavaScript riche en fonctionnalités exécuté sur node.js et le navigateur.

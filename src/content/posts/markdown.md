@@ -2,7 +2,7 @@
 template: blog-post
 title: "Les meilleurs sites pour apprendre Git pour les débutants "
 slug: /apprendre-git
-date: 2022-10-16 07:53
+date: 2021-10-16 07:53
 description: Collection des meilleurs sites Web pour apprendre les commandes Git
   et les concepts Git pour les débutants 2022
 featuredImage: /assets/git.png

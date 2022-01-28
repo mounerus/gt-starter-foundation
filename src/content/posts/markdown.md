@@ -4,7 +4,7 @@ title: "Les meilleurs sites pour apprendre Git pour les débutants "
 slug: /apprendre-git
 date: 2021-10-16 07:53
 description: Collection des meilleurs sites Web pour apprendre les commandes Git
-  et les concepts Git pour les débutants 2022
+  et les concepts Git pour les débutants 2021
 featuredImage: /assets/git.png
 ---
 Si vous voulez apprendre git en 2022 et rechercher les meilleurs sites Web, vous êtes au bon endroit. voici une liste de sites pour apprendre git de débutant à avancé. Beaucoup d'entre eux sont gratuits.

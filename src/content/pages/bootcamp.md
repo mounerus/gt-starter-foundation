@@ -40,6 +40,6 @@ Mais cela ne signifie pas que l'expérience d'apprentissage est isolée ou solit
 
 ## Que se passe-t-il si j'ai une question à laquelle je ne trouve pas de réponse ici ?
 
-Si vous avez des questions supplémentaires, nous sommes heureux de vous aider ! Envoyez-nous simplement un **[](elmceed@gmail.com)elmceed@gmail.com** ou à **contact@gotestr.com** et nous vous fournirons les réponses dont vous avez besoin.
+Si vous avez des questions supplémentaires, nous sommes heureux de vous aider ! Envoyez-nous simplement un email à **gotestr@gmx.fr[](elmceed@gmail.com)** et nous vous fournirons les réponses dont vous avez besoin.
 
 [](https://careerfoundry.com/en/connect/web-development-contact-advisor/)

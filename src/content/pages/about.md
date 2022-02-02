@@ -3,7 +3,7 @@ template: about-page
 slug: /about
 title: À propos
 ---
-## Gotestr a été fondée par des testeurs pour des testeurs.
+## Gotestr  fondé par des testeurs pour des testeurs.
 
 
 

@@ -5,7 +5,7 @@ slug: /test-planifier-exigences-projet
 date: 2022-03-04 10:37
 description: "testeurs pourquoi devriez-vous planifier les exigences du projet
   avant même d'en avoir "
-featuredImage: /assets/qa_assurance.jpeg
+featuredImage: /assets/gettyimages-546462738-2.jpg
 ---
 De nombreuses personnes considèrent  la gestion des exigences  comme la phase clé pour traiter les exigences du projet. Cependant, il est important de faire une planification suffisante avant que ces exigences n'existent. Cela est nécessaire pour préparer le terrain pour un projet réussi. 
 
@@ -49,7 +49,7 @@ Les listes d'exigences du projet ont différents niveaux d'importance. Vous obt
 
 La planification des exigences vous permet de créer d'abord un meilleur cadre des principales exigences de haut niveau. Ceci est nécessaire pour créer des listes de sous-exigences sous-jacentes. 
 
-Toutes les exigences doivent être mises en place pour atteindre un objectif précis qui aidera à conduire le résultat du projet. Vous ne voulez pas avoir à intervenir ultérieurement pour restructurer le plan des exigences. Il est important de clarifier dès le départ les différents [niveaux d'exigence](https://reqtest.com/recorded-webinar-new-requirements-module/) .
+Toutes les exigences doivent être mises en place pour atteindre un objectif précis qui aidera à conduire le résultat du projet. Vous ne voulez pas avoir à intervenir ultérieurement pour restructurer le plan des exigences. Il est important de clarifier dès le départ les différents niveaux d'exigence .
 
 ### Meilleure communication
 
